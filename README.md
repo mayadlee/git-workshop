@@ -1,2 +1,2 @@
 # git-workshop
-wics git workshop intro repository
+wics git workshop intro repository!
